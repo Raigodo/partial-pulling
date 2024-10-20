@@ -1,10 +1,13 @@
 **setup:**
+```
 -main
   -my-folder
     -b.txt
     -c.txt
   -a.txt
+```
 
+```
 -branch2
   -my-folder
     -c.txt
@@ -13,7 +16,7 @@
   -a.txt
   -include-me.txt
   -exclude-ne.txt
-
+```
 **changes:**
 make some changes in branch2 (whatever you wish)
 
